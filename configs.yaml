@@ -1,0 +1,4 @@
+name: my-test-ec2
+imageID: ami-00c90dbdc12232b58
+replicas: 0
+instanceType: t1.micro
